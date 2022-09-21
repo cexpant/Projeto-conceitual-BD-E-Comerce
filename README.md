@@ -1,2 +1,2 @@
-# projeto conceitual banco de dados E-Comerce
+# projeto conceitual banco de dados E-Commerce
 Desafio de projeto DIO Database Experience
